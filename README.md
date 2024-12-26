@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Dollarovv! 👋
 
-<!--
-**Dollarovv/Dollarovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and learning new technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the technologies and tools I work with:
+
+- Programming Languages: [e.g., Python, JavaScript, C++]
+- Frameworks: [e.g., React, Django, Flask]
+- Tools: [e.g., Git, Docker, VS Code]
+
+## 📈 GitHub Stats
+
+![Dollarovv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dollarovv&show_icons=true&theme=radical)
+
+
+## 🎯 Projects
+
+Here are some of my favorite projects:
+
+- [Project 1](https://github.com/Dollarovv/project1): A brief description of Project 1.
+- [Project 2](https://github.com/Dollarovv/project2): A brief description of Project 2.
+- [Project 3](https://github.com/Dollarovv/project3): A brief description of Project 3.
