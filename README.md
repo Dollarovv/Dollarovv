@@ -10,11 +10,6 @@ Here are some of the technologies and tools I work with:
 - Frameworks: [e.g., React, Django, Flask]
 - Tools: [e.g., Git, Docker, VS Code]
 
-## 📈 GitHub Stats
-
-![Dollarovv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dollarovv&show_icons=true&theme=radical)
-
-
 ## 🎯 Projects
 
 Here are some of my favorite projects:
